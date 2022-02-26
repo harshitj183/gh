@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html>
+<link rel="dns-prefetch" href="//static.cleverpush.com" />
+<link rel="preconnect" href="//static.cleverpush.com" cross-origin />
+<link rel="dns-prefetch" href="//api.cleverpush.com" />
+<link rel="preconnect" href="//api.cleverpush.com" cross-origin />
+
+<meta name="robots" content="noindex">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<script src="https://static.cleverpush.com/sdk/cleverpush.js"></script>
+
+<script>
+    var channel = {
+      channelId: 'HbcuCnZ4bmt35RuyB',
+      loadConfigFromParent: true,
+    };
+    CleverPush.initHttpPopup(channel);
+</script>
+
+<style>
+    html {
+        position: relative;
+    }
+
+    body {
+        color: #333;
+        font-family: sans-serif;
+        padding-bottom: 50px;
+    }
+
+    html, body {
+        min-height: 100vh;
+        margin: 0;
+        padding: 0;
+    }
+
+    .content {
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .subscribe-helper-text {
+        text-align: center;
+        padding: 0 20px 0 20px;
+    }
+
+    .subscribe-helper-text p {
+        margin-top: 10px;
+    }
+
+    h2 {
+        font-size: 1.45em;
+    }
+
+    h2, h3 {
+        font-weight: normal;
+        margin-bottom: 0;
+    }
+
+    #status {
+        margin: 15px 0;
+    }
+
+    #status p {
+        color: #555;
+    }
+
+    #loading {
+        margin-top: 25px;
+        color: #54b1c4;
+    }
+
+    #unblock-tutorial {
+        margin-top: 15px;
+    }
+
+    #unblock-tutorial img {
+        max-width: 100%;
+    }
+
+    #channel-icon img {
+        border-radius: 50%;
+        max-height: 75px;
+    }
+
+    #success {
+        font-size: 24px;
+    }
+
+    .spinner {
+        width: 40px;
+        height: 40px;
+
+        position: relative;
+        margin: 100px auto;
+    }
+
+    .double-bounce1, .double-bounce2 {
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+        background-color: #54b1c4;
+        opacity: 0.6;
+        position: absolute;
+        top: 0;
+        left: 0;
+
+        -webkit-animation: sk-bounce 2.0s infinite ease-in-out;
+        animation: sk-bounce 2.0s infinite ease-in-out;
+    }
+
+    .double-bounce2 {
+        -webkit-animation-delay: -1.0s;
+        animation-delay: -1.0s;
+    }
+
+    @-webkit-keyframes sk-bounce {
+        0%, 100% { -webkit-transform: scale(0.0) }
+        50% { -webkit-transform: scale(1.0) }
+    }
+
+    @keyframes sk-bounce {
+        0%, 100% {
+            transform: scale(0.0);
+            -webkit-transform: scale(0.0);
+        } 50% {
+              transform: scale(1.0);
+              -webkit-transform: scale(1.0);
+          }
+    }
+
+    svg {
+        width: 50px;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .path {
+        stroke-dasharray: 1000;
+        stroke-dashoffset: 0;
+    }
+    .path.circle {
+         -webkit-animation: dash .9s ease-in-out;
+         animation: dash .9s ease-in-out;
+     }
+    .path.line {
+         stroke-dashoffset: 1000;
+         -webkit-animation: dash .9s .35s ease-in-out forwards;
+         animation: dash .9s .35s ease-in-out forwards;
+     }
+    .path.check {
+         stroke-dashoffset: -100;
+         -webkit-animation: dash-check .9s .35s ease-in-out forwards;
+         animation: dash-check .9s .35s ease-in-out forwards;
+     }
+
+    @-webkit-keyframes dash {
+        0% {
+            stroke-dashoffset: 1000;
+        }
+        100% {
+            stroke-dashoffset: 0;
+        }
+    }
+
+    @keyframes dash {
+        0% {
+            stroke-dashoffset: 1000;
+        }
+        100% {
+            stroke-dashoffset: 0;
+        }
+    }
+
+    @-webkit-keyframes dash-check {
+        0% {
+            stroke-dashoffset: -100;
+        }
+        100% {
+            stroke-dashoffset: 900;
+        }
+    }
+
+    @keyframes dash-check {
+        0% {
+            stroke-dashoffset: -100;
+        }
+        100% {
+            stroke-dashoffset: 900;
+        }
+    }
+
+</style>
+</head>
+<body>
+<div class="content">
+    <div class="subscribe-helper-text">
+        <p id="success" style="display: none;">
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130.2 130.2">
+                <circle class="path circle" fill="none" stroke="#54b1c4" stroke-width="6" stroke-miterlimit="10" cx="65.1" cy="65.1" r="62.1"/>
+                <polyline class="path check" fill="none" stroke="#54b1c4" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" points="100.2,40.2 51.5,88.8 29.8,67.5 "/>
+            </svg>
+        </p>
+
+        <div id="status"></div>
+
+        <div id="unblock-tutorial" style="display: none;"></div>
+
+        <div id="loading">
+            <div class="spinner">
+                <div class="double-bounce1"></div>
+                <div class="double-bounce2"></div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
