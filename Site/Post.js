@@ -3,3 +3,7 @@
 
 
 
+
+/*/var widgetLazy=!1;window.addEventListener("scroll",function(){(0!=document.documentElement.scrollTop&&!1===widgetLazy||0!=document.body.scrollTop&&!1===widgetLazy)&&(!function(){var c=document.createElement("script");c.type="text/javascript",c.async=!0,c.src="https://cdn.statically.io/js/cdn.widgetpack.com/widget.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(c,b)}(),widgetLazy=!0)},!0);/*
+
+
