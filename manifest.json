@@ -1,4 +1,6 @@
 {
+"$schema": "https://json.schemastore.org/web-manifest-combined.json",
+
     "name": "Harshit Jaiswal (@harshitj183)",
     "short_name": "Harshit Jaiswal (@harshitj183)",
     "description": "Increase your knowledge with us.",
