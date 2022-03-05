@@ -1992,6 +1992,13 @@ pubmatic.com, 157743, DIRECT, 5d62403b186f2ace
 
 #h12media
 
+#GetAdx#
+google.com, pub-8585258819115152, DIRECT, f08c47fec0942fa0
+google.com, pub-8743652276162773, DIRECT, f08c47fec0942fa0
+google.com, pub-5610016226208267, DIRECT, f08c47fec0942fa0
+
+
+#GetAdx#
 
 google.com, pub-2369687595460896, DIRECT, f08c47fec0942fa0
 google.com, pub-1234567891234567, DIRECT, f12c34fec5672fa0
