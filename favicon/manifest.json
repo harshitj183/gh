@@ -18,8 +18,11 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#007cff",
-    "background_color": "#007cff",
+"theme_color": "#007cff",
+    "background_color": "yellow",
+    "prefer_related_applications": "true",
+    "orientation": "any",
     "start_url": "/?pwa",
-    "display": "standalone"
+    "display": "standalone",
+
 }
