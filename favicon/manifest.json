@@ -24,5 +24,46 @@
     "orientation": "any",
     "start_url": "/?pwa",
     "display": "standalone",
+"screenshots": [
+    {
+      "src": "https://res.cloudinary.com/harshit-jaiswal/image/upload/v1645585809/937fc5b0-1a2b-49da-925a-0806a33c902c_ttktud.png?hight=5
+40&weight=720",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+    {
+      "src": "https://res.cloudinary.com/harshit-jaiswal/image/upload/v1645585813/7776fb7c-e03a-47bb-8e2f-124662d88096_wouvh7.png?hight=5
+40&weight=720",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+    {
+      "src": "https://res.cloudinary.com/harshit-jaiswal/image/upload/v1645585813/a9fa2870-cece-4c9e-afbe-89ce348a8406_ywddg5.png?hight=5
+40&weight=720",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+    {
+      "src": "https://res.cloudinary.com/harshit-jaiswal/image/upload/v1645585816/b579cae1-d117-4260-9189-44573423bd8b_aswcfq.png?hight=5
+40&weight=720",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+    {
+      "src": "https://res.cloudinary.com/harshit-jaiswal/image/upload/v1645585817/a14fea97-91f6-4823-8a9f-73b8a633e5b9_rgepwi.png?hight=5
+40&weight=720",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+    {
+      "src": "https://res.cloudinary.com/harshit-jaiswal/image/upload/v1645585817/8c8d21b3-0ff6-40b6-bf7a-5caee8740374_tlsbjm.png?hight=5
+40&weight=720",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+
+    
+  ],
+
 
 }
