@@ -1,7 +1,7 @@
 {
 "$schema": "https://json.schemastore.org/web-manifest-combined.json",
-    "name": "Harshit Jaiswal (@harshitj183)",
-    "short_name": "Harshit Jaiswal (@harshitj183)",
+    "name": "𝐇𝐚𝐫𝐬𝐡𝐢𝐭 𝐉𝐚𝐢𝐬𝐰𝐚𝐥 (@𝐡𝐚𝐫𝐬𝐡𝐢𝐭𝐣𝟏𝟖𝟑)",
+    "short_name": "𝐇𝐚𝐫𝐬𝐡𝐢𝐭 𝐉𝐚𝐢𝐬𝐰𝐚𝐥 (@𝐡𝐚𝐫𝐬𝐡𝐢𝐭𝐣𝟏𝟖𝟑))",
 "description": "Increase your knowledge with us.",
 "serviceworker": {
     "src": "/sw.js"
