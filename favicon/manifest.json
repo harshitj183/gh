@@ -67,5 +67,39 @@
       ]
     }
   ]
+"screenshots": [
+    {
+      "src": "https://res.cloudinary.com/harshit-jaiswal/image/upload/v1646637019/Screenshot_2022-03-07-12-21-56-32_540x720_gam7qn.jpg",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+    {
+      "src": "https://res.cloudinary.com/harshit-jaiswal/image/upload/v1646637019/Screenshot_2022-03-07-12-22-13-37_540x720_qafcsi.jpg",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+    {
+      "src": "https://res.cloudinary.com/harshit-jaiswal/image/upload/v1646637019/Screenshot_2022-03-07-12-22-16-67_540x720_icrbt4.jpg",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+    {
+      "src": "https://res.cloudinary.com/harshit-jaiswal/image/upload/v1646637019/Screenshot_2022-03-07-12-21-49-41_540x720_y978ro.jpg",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+    {
+      "src": "https://res.cloudinary.com/harshit-jaiswal/image/upload/v1646637019/Screenshot_2022-03-07-12-22-54-38_540x720_w7byxt.jpg",
+      "type": "image/png",
+ "sizes": "540x720"
 
+    },
+    {
+      "src": "https://res.cloudinary.com/harshit-jaiswal/image/upload/v1646637019/Screenshot_2022-03-07-12-22-07-09_540x720_bc4kvb.jpg",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+    
+  ],
+ 
 }
