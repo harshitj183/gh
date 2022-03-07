@@ -4,7 +4,7 @@
     "short_name": "𝐇𝐚𝐫𝐬𝐡𝐢𝐭 𝐉𝐚𝐢𝐬𝐰𝐚𝐥 (@𝐡𝐚𝐫𝐬𝐡𝐢𝐭𝐣𝟏𝟖𝟑))",
 "description": "Increase your knowledge with us.",
 "serviceworker": {
-    "src": "https://www.harshitj183.eu.org//sw.js"
+    "src": "https://www.harshitj183.eu.org/sw.js"
   },
     "icons": [
         {
@@ -22,7 +22,7 @@
     "background_color": "yellow",
     "prefer_related_applications": "true",
     "orientation": "any",
-    "start_url": "https://www.harshitj183.eu.org//?pwa",
+    "start_url": "https://www.harshitj183.eu.org/?pwa",
     "display": "standalone",
 
 "android_package_name": "com.gamenewsmania.app",
@@ -78,7 +78,7 @@
   "shortcuts": [
     {
       "name": "Top Stories",
-      "url": "/search?utm_source=homescreen",
+      "url": "https://www.harshitj183.eu.org/search?utm_source=homescreen",
       "icons": [
         {
           "src": "https://raw.githubusercontent.com/gamenewsmaniaweb/icon/main/shortcut-icon1-192.png",
@@ -89,7 +89,7 @@
     },
     {
       "name": "Mobile",
-      "url": "https://www.harshitj183.eu.org//search/label/Mobile?utm_source=homescreen",
+      "url": "https://www.harshitj183.eu.org/search/label/Mobile?utm_source=homescreen",
       "icons": [
         {
           "src": "https://raw.githubusercontent.com/gamenewsmaniaweb/icon/main/shortcut-icon4-192.png",
