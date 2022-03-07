@@ -4,16 +4,16 @@
     "short_name": "𝐇𝐚𝐫𝐬𝐡𝐢𝐭 𝐉𝐚𝐢𝐬𝐰𝐚𝐥 (@𝐡𝐚𝐫𝐬𝐡𝐢𝐭𝐣𝟏𝟖𝟑))",
 "description": "Increase your knowledge with us.",
 "serviceworker": {
-    "src": "/sw.js"
+    "src": "https://www.harshitj183.eu.org//sw.js"
   },
     "icons": [
         {
-            "src": "/main/favicon/android-chrome-192x192.png",
+            "src": "https://www.harshitj183.eu.org//main/favicon/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/main/favicon/android-chrome-512x512.png",
+            "src": "https://www.harshitj183.eu.org//main/favicon/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
@@ -22,7 +22,7 @@
     "background_color": "yellow",
     "prefer_related_applications": "true",
     "orientation": "any",
-    "start_url": "/?pwa",
+    "start_url": "https://www.harshitj183.eu.org//?pwa",
     "display": "standalone",
 
 "android_package_name": "com.gamenewsmania.app",
@@ -89,7 +89,7 @@
     },
     {
       "name": "Mobile",
-      "url": "/search/label/Mobile?utm_source=homescreen",
+      "url": "https://www.harshitj183.eu.org//search/label/Mobile?utm_source=homescreen",
       "icons": [
         {
           "src": "https://raw.githubusercontent.com/gamenewsmaniaweb/icon/main/shortcut-icon4-192.png",
@@ -100,7 +100,7 @@
     },
     {
       "name": "Tools",
-      "url": "/p/tools.html?utm_source=homescreen",
+      "url": "https://www.harshitj183.eu.org/p/tools.html?utm_source=homescreen",
       "icons": [
         {
           "src": "https://raw.githubusercontent.com/gamenewsmaniaweb/icon/main/shortcut-icon3-192.png",
