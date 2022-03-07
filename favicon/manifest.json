@@ -40,34 +40,35 @@
   },
   "screenshots": [
     {
-      "src": "https://raw.githubusercontent.com/harshitj183/gh/main/Site/IMG_20220306_165415.jpg",
+      "src": "https://res.cloudinary.com/harshit-jaiswal/image/upload/v1646636041/Screenshot_2022-03-07-12-21-56-32_jal2mr.jpg",
       "type": "image/png",
-      "sizes": "540x720"
+      "sizes": "720x1600"
     },
     {
-      "src": "https://raw.githubusercontent.com/harshitj183/gh/main/Site/IMG_20220306_170000.jpg",
+      "src": "https://res.cloudinary.com/harshit-jaiswal/image/upload/v1646636042/Screenshot_2022-03-07-12-22-13-37_xipcom.jpg",
       "type": "image/png",
-      "sizes": "540x720"
+      "sizes": "720x1600"
     },
     {
-      "src": "https://raw.githubusercontent.com/harshitj183/gh/main/Site/IMG_20220306_170113.jpg",
+      "src": "https://res.cloudinary.com/harshit-jaiswal/image/upload/v1646636042/Screenshot_2022-03-07-12-22-16-67_xwzfaz.jpg",
       "type": "image/png",
-      "sizes": "540x720"
+      "sizes": "720x1600"
     },
     {
-      "src": "https://raw.githubusercontent.com/harshitj183/gh/main/Site/IMG_20220306_164656.jpg",
+      "src": "https://res.cloudinary.com/harshit-jaiswal/image/upload/v1646636042/Screenshot_2022-03-07-12-22-54-38_n2sevh.jpg",
       "type": "image/png",
-      "sizes": "540x720"
+      "sizes": "720x1600"
     },
     {
-      "src": "https://raw.githubusercontent.com/harshitj183/gh/main/Site/IMG_20220306_164938.jpg",
+      "src": "https://res.cloudinary.com/harshit-jaiswal/image/upload/v1646636042/Screenshot_2022-03-07-12-21-49-41_m1gnxc.jpg",
       "type": "image/png",
-      "sizes": "540x720"
+ "sizes": "720x1600"
+
     },
     {
-      "src": "https://raw.githubusercontent.com/harshitj183/gh/main/Site/IMG_20220306_165714.jpg",
+      "src": "https://res.cloudinary.com/harshit-jaiswal/image/upload/v1646636043/Screenshot_2022-03-07-12-22-07-09_oskmvq.jpg",
       "type": "image/png",
-      "sizes": "540x720"
+      "sizes": "720x1600"
     },
     
   ],
