@@ -22,52 +22,23 @@
     "background_color": "yellow",
     "prefer_related_applications": "true",
     "orientation": "any",
-    "start_url": "https://www.harshitj183.eu.org/?pwa",
+    "start_url": "https://www.harshitj183.eu.org/?pwa=1",
     "display": "standalone",
 
 "android_package_name": "com.gamenewsmania.app",
   "prefer_related_applications": true,
-   
+  "related_applications": [
+    {
+      "id": "com.gamenewsmania.app",
+      "platform": "chromeos_play",
+      "url": "https://play.google.com/store/apps/details?id=com.gamenewsmania.app"
+    }
+  ],
   "launch_handler": {
     "route_to": "existing-client",
     "navigate_existing_client": "never"
   },
-   "shortcuts": [
-    {
-      "name": "💥 EXPLORE new",
-      "url": "https://www.harshitj183.eu.org/search?pwa",
-      "icons": [
-        {
-          "src": "https://cdn-icons-png.flaticon.com/128/3275/3275510.png",
-          "type": "image/png",
-          "sizes": "192x192"
-        }
-      ]
-    },
-    {
-      "name": "📰 NEWS",
-      "url": "https://www.harshitj183.eu.org/search/label/News?pwa",
-      "icons": [
-        {
-          "src": "https://res.cloudinary.com/harshit-jaiswal/image/upload/v1646634173/Screenshot_2022-03-07-11-52-03-67_rn5oju.jpg",
-          "type": "image/png",
-          "sizes": "192x192"
-        }
-      ]
-    },
-    {
-      "name": "🔎 Search",
-      "url": "https://www.harshitj183.eu.org/p/search.html?pwa",
-      "icons": [
-        {
-          "src": "https://res.cloudinary.com/harshit-jaiswal/image/upload/v1646633808/af36940f168b94574d54c70bd175c97a_mnhmsv.jpg",
-          "type": "image/png",
-          "sizes": "192x192"
-        }
-      ]
-    }
-  ]
-"screenshots": [
+  "screenshots": [
     {
       "src": "https://res.cloudinary.com/harshit-jaiswal/image/upload/v1646637019/Screenshot_2022-03-07-12-21-56-32_540x720_gam7qn.jpg",
       "type": "image/png",
@@ -91,15 +62,48 @@
     {
       "src": "https://res.cloudinary.com/harshit-jaiswal/image/upload/v1646637019/Screenshot_2022-03-07-12-22-54-38_540x720_w7byxt.jpg",
       "type": "image/png",
- "sizes": "540x720"
-
+      "sizes": "540x720"
     },
     {
       "src": "https://res.cloudinary.com/harshit-jaiswal/image/upload/v1646637019/Screenshot_2022-03-07-12-22-07-09_540x720_bc4kvb.jpg",
       "type": "image/png",
       "sizes": "540x720"
-    },
-    
+    }
   ],
- 
+  "shortcuts": [
+    {
+      "name": "💥 EXPLORE new",
+      "url": "https://www.harshitj183.eu.org/search?pwa=1",
+      "icons": [
+        {
+          "src": "https://cdn-icons-png.flaticon.com/128/3275/3275510.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "📰 NEWS",
+      "url": "https://www.harshitj183.eu.org/search/label/News?pwa=1",
+      "icons": [
+        {
+          "src": "https://res.cloudinary.com/harshit-jaiswal/image/upload/v1646634173/Screenshot_2022-03-07-11-52-03-67_rn5oju.jpg",
+          "type": "image/png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "🔎 Search",
+      "url": "https://www.harshitj183.eu.org/p/search.html?pwa=1",
+      "icons": [
+        {
+          "src": "https://res.cloudinary.com/harshit-jaiswal/image/upload/v1646633808/af36940f168b94574d54c70bd175c97a_mnhmsv.jpg",
+          "type": "image/png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+
 }
