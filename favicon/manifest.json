@@ -8,12 +8,12 @@
   },
     "icons": [
         {
-            "src": "https://www.harshitj183.eu.org//main/favicon/android-chrome-192x192.png",
+            "src": "https://www.harshitj183.eu.org/main/favicon/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "https://www.harshitj183.eu.org//main/favicon/android-chrome-512x512.png",
+            "src": "https://www.harshitj183.eu.org/main/favicon/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
@@ -27,52 +27,12 @@
 
 "android_package_name": "com.gamenewsmania.app",
   "prefer_related_applications": true,
-  "related_applications": [
-    {
-      "id": "com.gamenewsmania.app",
-      "platform": "chromeos_play",
-      "url": "https://play.google.com/store/apps/details?id=com.gamenewsmania.app"
-    }
-  ],
+   
   "launch_handler": {
     "route_to": "existing-client",
     "navigate_existing_client": "never"
   },
-  "screenshots": [
-    {
-      "src": "https://res.cloudinary.com/harshit-jaiswal/image/upload/v1646637019/Screenshot_2022-03-07-12-21-56-32_540x720_gam7qn.jpg",
-      "type": "image/png",
-      "sizes": "540x720"
-    },
-    {
-      "src": "https://res.cloudinary.com/harshit-jaiswal/image/upload/v1646637019/Screenshot_2022-03-07-12-22-13-37_540x720_qafcsi.jpg",
-      "type": "image/png",
-      "sizes": "540x720"
-    },
-    {
-      "src": "https://res.cloudinary.com/harshit-jaiswal/image/upload/v1646637019/Screenshot_2022-03-07-12-22-16-67_540x720_icrbt4.jpg",
-      "type": "image/png",
-      "sizes": "540x720"
-    },
-    {
-      "src": "https://res.cloudinary.com/harshit-jaiswal/image/upload/v1646637019/Screenshot_2022-03-07-12-21-49-41_540x720_y978ro.jpg",
-      "type": "image/png",
-      "sizes": "540x720"
-    },
-    {
-      "src": "https://res.cloudinary.com/harshit-jaiswal/image/upload/v1646637019/Screenshot_2022-03-07-12-22-54-38_540x720_w7byxt.jpg",
-      "type": "image/png",
- "sizes": "540x720"
-
-    },
-    {
-      "src": "https://res.cloudinary.com/harshit-jaiswal/image/upload/v1646637019/Screenshot_2022-03-07-12-22-07-09_540x720_bc4kvb.jpg",
-      "type": "image/png",
-      "sizes": "540x720"
-    },
-    
-  ],
-  "shortcuts": [
+   "shortcuts": [
     {
       "name": "💥 EXPLORE new",
       "url": "https://www.harshitj183.eu.org/search?pwa",
