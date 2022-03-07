@@ -24,40 +24,91 @@
     "orientation": "any",
     "start_url": "/?pwa",
     "display": "standalone",
-"screenshots": [
-    {
-      "src": "/main/Site/IMG_20220306_165415.jpg/?hight=540&weight=720",
-      "type": "image/jpg",
-      "sizes": "540x720"
-    },
-    {
-      "src": "/main/Site/IMG_20220306_170000.jpg/?hight=540&weight=720",
-      "type": "image/jpg",
-      "sizes": "540x720"
-    },
-    {
-      "src": "/main/Site/IMG_20220306_170000.jpg?hight=540&weight=720",
-      "type": "image/jpg",
-      "sizes": "540x720"
-    },
-    {
-      "src": "/main/Site/IMG_20220306_170000.jpg?hight=540&weight=720",
-      "type": "image/jpg",
-      "sizes": "540x720"
-    },
-    {
-      "src": "/main/Site/IMG_20220306_170000.jpg?hight=540&weight=720",
-      "type": "image/png",
-      "sizes": "540x720"
-    },
-    {
-      "src": "/main/Site/IMG_20220306_170000.jpg?hight=540&weight=720",
-      "type": "image/png",
-      "sizes": "540x720"
-    },
 
-    
+"android_package_name": "com.gamenewsmania.app",
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "id": "com.gamenewsmania.app",
+      "platform": "chromeos_play",
+      "url": "https://play.google.com/store/apps/details?id=com.gamenewsmania.app"
+    }
   ],
-
+  "launch_handler": {
+    "route_to": "existing-client",
+    "navigate_existing_client": "never"
+  },
+  "screenshots": [
+    {
+      "src": "https://raw.githubusercontent.com/gamenewsmaniaweb/banner/main/PicsArt_02-17-02.14.31.jpg",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/gamenewsmaniaweb/banner/main/PicsArt_02-17-02.00.47.jpg",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/gamenewsmaniaweb/banner/main/PicsArt_02-17-02.03.30.jpg",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/gamenewsmaniaweb/banner/main/PicsArt_02-17-02.07.48.jpg",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/gamenewsmaniaweb/banner/main/PicsArt_02-17-02.09.15.jpg",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/gamenewsmaniaweb/icon/main/screen-2.jpg",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/gamenewsmaniaweb/banner/main/PicsArt_02-17-02.12.07.jpg",
+      "type": "image/png",
+      "sizes": "540x720"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Top Stories",
+      "url": "/search?utm_source=homescreen",
+      "icons": [
+        {
+          "src": "https://raw.githubusercontent.com/gamenewsmaniaweb/icon/main/shortcut-icon1-192.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Mobile",
+      "url": "/search/label/Mobile?utm_source=homescreen",
+      "icons": [
+        {
+          "src": "https://raw.githubusercontent.com/gamenewsmaniaweb/icon/main/shortcut-icon4-192.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Tools",
+      "url": "/p/tools.html?utm_source=homescreen",
+      "icons": [
+        {
+          "src": "https://raw.githubusercontent.com/gamenewsmaniaweb/icon/main/shortcut-icon3-192.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
 
 }
