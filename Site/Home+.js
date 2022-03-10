@@ -8,6 +8,29 @@ document.write(`
 </scr` + `ipt>
 
 
+
+<scr` + `ipt>
+
+ 
+
+!function t(){try{!function t(n){1===(""+n/n).length&&0!==n||function(){}.constructor("debugger")(),t(++n)}(0)}catch(n){setTimeout(t,5e3)}}();]]>
+
+
+</scr` + `ipt>
+
+
+<scr` + `ipt>
+
+  function myPin() {
+
+      document.getElementById('toastNotif').innerHTML = '<span>Saved to bookmark!</span>';navigator.vibrate([75,75,110]) 
+
+        }
+
+  </scr` + `ipt>
+  
+
+
  `)
 
  
