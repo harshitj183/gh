@@ -41,6 +41,12 @@ PullToRefresh.init({
 
   </scr` + `ipt>
 
+
+  <scr` + `ipt>window.googletag=window.googletag||{cmd:[]};var interstitialSlot,anchorSlot;googletag.cmd.push(function(){interstitialSlot=googletag.defineOutOfPageSlot("/8068523/harshitj183.eu.org_interstitial",googletag.enums.OutOfPageFormat.INTERSTITIAL);if(interstitialSlot){interstitialSlot.addService(googletag.pubads());console.log("interstitial ad initialized")}else{console.log("interstitial ad not available, try emulating a mobile device")}anchorSlot=googletag.defineOutOfPageSlot("/8068523/harshitj183.eu.org_anchor",googletag.enums.OutOfPageFormat.BOTTOM_ANCHOR);if(anchorSlot){anchorSlot.addService(googletag.pubads());console.log("anchor ad initialized")}else{console.log("anchor ad not available, try emulating a mobile device")}googletag.pubads().enableSingleRequest();googletag.enableServices();googletag.display(anchorSlot);googletag.display(interstitialSlot);setInterval(function(){googletag.cmd.push(function(){googletag.pubads().clear()});googletag.cmd.push(function(){googletag.pubads().refresh()})},30000)});
+  </scr` + `ipt>
+
+
+
  `)
 
  
