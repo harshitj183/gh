@@ -29,7 +29,17 @@ document.write(`
 
   </scr` + `ipt>
   
+  <scr` + `ipt>
+PullToRefresh.init({
 
+  mainElement: 'body',
+
+  onRefresh: function(){ window.location.reload();navigator.vibrate([110]) }
+
+});
+  
+
+  </scr` + `ipt>
 
  `)
 
