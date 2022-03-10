@@ -8,10 +8,7 @@ document.write(`
 </scr` + `ipt>
 
 
-<div class='tNtf' id='toastNotif'/>
-  <scr` + `ipt> window.addEventListener("offline",function(){document.querySelector("#toastNotif").innerHTML="<span> 😔 No internet connection!📡 </span>"}),window.addEventListener("online",function(){document.querySelector("#toastNotif").innerHTML="<span> 😁Internet connection restored!📡</span>"});</scr` + `ipt>
-
-
+ 
  `)
 
  
