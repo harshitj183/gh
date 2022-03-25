@@ -4,7 +4,7 @@
     "short_name": "𝐇𝐚𝐫𝐬𝐡𝐢𝐭 𝐉𝐚𝐢𝐬𝐰𝐚𝐥 (@𝐡𝐚𝐫𝐬𝐡𝐢𝐭𝐣𝟏𝟖𝟑)",
 "description": "Increase your knowledge with us.",
 "serviceworker": {
-    "src": "https://www.harshitj183.eu.org/service-worker.js"
+    "src": "https://www.harshitj183.eu.org/serviceworker.js"
   },
     "icons": [
         {
