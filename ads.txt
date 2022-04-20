@@ -2297,8 +2297,6 @@ google.com, pub-9422585382673566, DIRECT, f08c47fec0942fa0
 google.com, pub-5413329544040947, RESELLER, f08c47fec0942fa0
 
 
-
-#agencyorquidea
 agencyorquidea.com, 1572, DIRECT
 google.com, pub-2726428685015992, RESELLER, f08c47fec0942fa0
 google.com, pub-7913044002918072, DIRECT, f08c47fec0942fa0
@@ -2462,8 +2460,7 @@ appnexus.com, 13099, RESELLER
 smartadserver.com, 4111, RESELLER
 
 APPNEXUS NATIVE
-appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
-#agencyorquidea
+appnexus.com, 11924, RESELLER, f5ab79cb980f11d1#agencyorquidea
 
 
  
