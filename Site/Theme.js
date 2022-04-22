@@ -1,6 +1,6 @@
 
 
-<!-- Lazy Loading jQuery Plugin  | v1.5.0 | https://github.com/pikitemplates/scripts -->
+<!-- Lazy Loading jQuery Plugin  | v1.5.0 |  -->
 !function(n){n.fn.lazyimg=function(){return this.each(function(){var t=n(this),a=n(window),e=t.attr("data-image"),h="w"+Math.round(t.width()+t.width()/10)+"-h"+Math.round(t.height()+t.height()/10)+"-p-k-no-nu";o.match("googleusercontent.com")&&(e.match("=")?(parts=o.split("="),o=parts[1]&&""!=parts[1].trim()?parts[0]+"=w72-h72-p-k-no-nu":o):o+="=w74-h74-p-k-no-nu");var i={"/s74-c":["/s72-c","/"+a],"/w72-h":["/w72-h72-p-k-no-nu","/"+a],"=w72-h":["=w72-h72-p-k-no-nu","="+a]},h=o;for(var s in i)if(o.match(s)){h=o.replace(i[s][0],i[s][1]);break}t.is(":hidden")||a.on("load resize scroll",function n(){a.scrollTop()+a.height()>=t.offset().top&&(a.off("load resize scroll",n),t.attr("src",""+h).addClass("lazy-ify"))}).trigger("scroll")})}}(jQuery);
 
 
