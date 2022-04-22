@@ -1,8 +1,7 @@
 
 
 <!-- Lazy Loading jQuery Plugin  | v1.5.0 | https://github.com/pikitemplates/scripts -->
-!function(t){t.fn.lazyimg=function(){return this.each(function(){var n=t(this),r=t(window),o=n.attr("data-src"),a="w"+Math.round(n.width()+n.width()/10)+"-h"+Math.round(n.height()+n.height()/10)+"-p-k-no-nu";o.match("googleusercontent.com")&&(o.match("=")?(parts=o.split("="),o=parts[1]&&""!=parts[1].trim()?parts[0]+"=w72-h72-p-k-no-nu":o):o+="=w74-h74-p-k-no-nu");var i={"/s74-c":["/s74-c","/"+a],"/w74-h":["/w72-h72-p-k-no-nu","/"+a],"=w72-h":["=w72-h72-p-k-no-nu","="+a]},h=o;for(var s in i)if(o.match(s)){h=o.replace(i[s][0],i[s][1]);break}n.is(":hidden")||r.on("load resize scroll",function t(){r.scrollTop()+r.height()>=n.offset().top&&(r.off("load resize scroll",t),n.attr("src",""+h).addClass("lazy-img"))}).trigger("scroll")})}}(jQuery);
-
+!function(n){n.fn.lazyimg=function(){return this.each(function(){var t=n(this),a=n(window),e=t.attr("data-image"),h="w"+Math.round(t.width()+t.width()/10)+"-h"+Math.round(t.height()+t.height()/10)+"-p-k-no-nu";o.match("googleusercontent.com")&&(e.match("=")?(parts=o.split("="),o=parts[1]&&""!=parts[1].trim()?parts[0]+"=w72-h72-p-k-no-nu":o):o+="=w74-h74-p-k-no-nu");var i={"/s74-c":["/s72-c","/"+a],"/w72-h":["/w72-h72-p-k-no-nu","/"+a],"=w72-h":["=w72-h72-p-k-no-nu","="+a]},h=o;for(var s in i)if(o.match(s)){h=o.replace(i[s][0],i[s][1]);break}t.is(":hidden")||a.on("load resize scroll",function n(){a.scrollTop()+a.height()>=t.offset().top&&(a.off("load resize scroll",n),t.attr("src",""+h).addClass("lazy-ify"))}).trigger("scroll")})}}(jQuery);
 
 
 
