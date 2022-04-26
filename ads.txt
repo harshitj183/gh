@@ -1137,10 +1137,10 @@ google.com, pub-5857139169215153, RESELLER, f08c47fec0942fa0
 
 
 
-
 #PurpleAds Start
-google.com, pub-9546179864759144, DIRECT, f08c47fec0942fa0 #purple
-google.com, pub-5413329544040947, RESELLER, f08c47fec0942fa0 #cm
+purpleads.io, 6118abdc124f28701b8e6873, DIRECT
+google.com, pub-9546179864759144, DIRECT, f08c47fec0942fa0
+google.com, pub-5413329544040947, RESELLER, f08c47fec0942fa0
 #Adi
 google.com, pub-2930805104418204, RESELLER, f08c47fec0942fa0
 google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0
@@ -1853,7 +1853,7 @@ axonix.com, 57264, RESELLER
 admanmedia.com, 43, RESELLER
 openx.com, 540310752, DIRECT, 6a698e2ec38604c6
 rhythmone.com, 4195999290, DIRECT, a670c89d4a324e47
-rubiconproject.com, 19652 ,DIRECT, 0bfd66d529a55807
+rubiconproject.com, 19652, DIRECT, 0bfd66d529a55807
 appnexus.com, 8950, RESELLER
 pubmatic.com,156307,RESELLER,5d62403b186f2ace
 pubmatic.com, 156736, DIRECT, 5d62403b186f2ace
@@ -1978,8 +1978,8 @@ advertising.com, 28246, RESELLER
 smartadserver.com, 3447, DIRECT
 nativo.com, 5677, DIRECT
 amxrtb.com, 105199579, DIRECT
-indexexchange.com,195491,RESELLER,50b1c356f2c5c8fc
-sonobi.com,7ad1b9f952,RESELLER, d1a215d9eb5aee9e
+indexexchange.com, 195491, RESELLER, 50b1c356f2c5c8fc
+sonobi.com, 7ad1b9f952, RESELLER, d1a215d9eb5aee9e
 admanmedia.com, 812, DIRECT
 durationmedia.net, 22486896825, DIRECT
 mediafuse.com, 316569, DIRECT
@@ -1998,7 +1998,40 @@ amxrtb.com, 2141, DIRECT
 appnexus.com, 12290, RESELLER, f5ab79cb980f11d1
 appnexus.com, 11786, RESELLER, f5ab79cb980f11d1
 openx.com, 540556847, RESELLER, 6a698e2ec38604c6
+#onetag
+onetag.com, 775d62a935ce32d, DIRECT
+appnexus.com, 13099, RESELLER
+yahoo.com, 58905, RESELLER, e1a5b5b6e3255540
+pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
+smartadserver.com, 4111, RESELLER
+google.com, pub-3769010358500643, RESELLER, f08c47fec0942fa0
+freewheel.tv, 20393, RESELLER
+freewheel.tv, 24377, RESELLER
+#adagio
+adagio.io, 1263, DIRECT
+rubiconproject.com, 19116, RESELLER, 0bfd66d529a55807
+pubmatic.com, 159110, RESELLER, 5d62403b186f2ace
+improvedigital.com, 1790, RESELLER
+indexexchange.com, 194558, RESELLER
+smartadserver.com, 3554, RESELLER
+onetag.com, 6b859b96c564fbe, RESELLER
+yahoo.com, 58905, RESELLER, e1a5b5b6e3255540
+appnexus.com, 13099, RESELLER
+smartadserver.com, 4111, RESELLER
+33across.com, 0015a00002oUk4aAAC, RESELLER, bbea06d9c4d2853c
+yahoo.com, 57289, RESELLER, e1a5b5b6e3255540
+appnexus.com, 10239, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807
+richaudience.com, 1BTOoaD22a, RESELLER
+appnexus.com, 8233, RESELLER
+pubmatic.com, 81564, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 13510, RESELLER
+#triplelift
+triplelift.com, 11793, DIRECT, 6c33edb13117fd86
+triplelift.com, 11793-EB, DIRECT, 6c33edb13117fd86
 #PurpleAds End
+
 
 
 
