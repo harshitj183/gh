@@ -68,7 +68,7 @@ h4{font-size:21px;line-height:26px}
 
 
 
-.snip-thumbnail.lazy-img{opacity:1;
+.snip-thumbnail,img,.lazy-img{opacity:1;
 background-image:linear-gradient(135deg, rgba(211,223,232,.5) 30%,rgba(169,184,197,.5) 38%,rgba(168,182,193,.6) 41%,rgba(168,182,193,.6) 48%,rgba(168,182,193,.6) 50%,rgba(169,184,197,.6) 51%,rgba(211,223,232,.6) 57%,rgba(211,223,232,.6) 80%,rgba(211,223,232,.6) 80%);background-size:150% 150%;animation:gradient 1s ease infinite;display:block;position:relative;overflow:hidden;background-color:var(--rgba-gray);z-index:5;color:transparent!important}@keyframes gradient {0%{background-position:100% 50%}50%{background-position:50% 0}100%}
 
 
