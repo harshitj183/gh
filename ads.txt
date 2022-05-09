@@ -51,6 +51,77 @@ rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
 adform.com, 2865, RESELLER
 
 
+# lord-media.com Digital Programmatic Advertising Agency
+lord-media.com, 22561025441, DIRECT, f08c47fec0942fa0
+google.com, pub-3812685113410019, RESELLER, f08c47fec0942fa0
+google.com, pub-3812685113410019, DIRECT, f08c47fec0942fa0
+google.com, pub-3547058605891393, RESELLER, f08c47fec0942fa0
+lord-media.com, 22561025441, DIRECT, f08c47fec0942fa0
+google.com, pub-5830701627976708, RESELLER, f08c47fec0942fa0
+google.com, pub-1569289026679616, RESELLER, f08c47fec0942fa0
+google.com, pub-5823433327063800, RESELLER, f08c47fec0942fa0
+google.com, pub-3377995099635986, RESELLER, f08c47fec0942fa0
+google.com, pub-7049643425223583, RESELLER, f08c47fec0942fa0
+lord-media.com, AdX-55297863, DIRECT
+google.com, pub-2610964203515025, DIRECT, f08c47fec0942fa0
+google.com, pub-2393320645055022, RESELLER, f08c47fec0942fa0
+teads.tv, 21034, DIRECT, 15a9c44f6d26cbe1
+indexexchange.com, 183592, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 195049, RESELLER, 50b1c356f2c5c8fc
+appnexus.com, 1371, RESELLER, f5ab79cb980f11d1
+stroeer.com, 17580, DIRECT
+adform.com, 2148, RESELLER, 9f5210a2f0999e32
+rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
+media.net, 8CUGIC7K8, DIRECT
+lord-media.com, 22684701882, DIRECT, f08c47fec0942fa0
+google.com, pub-1849589791548457, RESELLER, f08c47fec0942fa0
+google.com, pub-1422713854272156, RESELLER, f08c47fec0942fa0
+# Lord Media OB - Maginta
+rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
+# Lord Media OB - OneTag
+onetag.com, 774207f14a92865, DIRECT
+onetag.com, 774207f14a92865-OB, DIRECT
+appnexus.com, 13099, RESELLER
+yahoo.com, 58905, RESELLER, e1a5b5b6e3255540
+pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
+smartadserver.com, 4111, RESELLER
+# Lord Media OB - Smart
+smartadserver.com, 4194, DIRECT
+smartadserver.com, 4194, RESELLER
+# Lord Media OB - Pubmatic
+pubmatic.com, 159855, DIRECT, 5d62403b186f2ace
+# Lord Media OB - SOVRN
+sovrn.com, 398586, DIRECT, fafdf38b16bf6b2b
+lijit.com, 398586, DIRECT, fafdf38b16bf6b2b
+lijit.com, 398586-eb, DIRECT, fafdf38b16bf6b2b
+gumgum.com, 11645, RESELLER, ffdef49475d318a9
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 539924617, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+# Lord Media OB - Smaato
+smaato.com,  1100052440  , DIRECT, 07bcf65f187117b4
+adcolony.com, 496220845654deec, RESELLER, 1ad675c9de6b5176
+admanmedia.com, 552, RESELLER
+bidmachine.io, 36, RESELLER
+bidmachine.io, 60, RESELLER
+engagebdr.com, 16, RESELLER
+indexexchange.com, 184270, RESELLER, 50b1c356f2c5c8fc
+mobilefuse.com, 2281, RESELLER, 71e88b065d69c021
+openx.com, 540421297, RESELLER, 6a698e2ec38604c6
+pokkt.com, 5886, RESELLER, c45702d9311e25fd
+rhythmone.com, 4201299756, RESELLER, a670c89d4a324e47
+smartadserver.com, 3117, RESELLER
+startapp.com, smt, RESELLER
+xad.com, 241, RESELLER, 81cbf0a75a5e0e9a
+
+
+
+
+
 
 
 #eReleGO Start
