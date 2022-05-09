@@ -51,6 +51,20 @@ rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
 adform.com, 2865, RESELLER
 
 
+
+
+
+
+
+adsproper, com
+google.com, pub-3014627405271991, DIRECT, f08c47fec0942fa0
+google.com, pub-1067374679252537, RESELLER, f08c47fec0942fa0
+google.com, pub-2555429733729531, DIRECT, f08c47fec0942fa0
+
+
+
+
+
 # lord-media.com Digital Programmatic Advertising Agency
 lord-media.com, 22561025441, DIRECT, f08c47fec0942fa0
 google.com, pub-3812685113410019, RESELLER, f08c47fec0942fa0
