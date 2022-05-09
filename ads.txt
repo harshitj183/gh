@@ -2336,11 +2336,6 @@ districtm.io, 101760, RESELLER, 3fd707be9c4527c3
 
  
 
-#Adsproper open Bidding
-
-google.com, pub-3014627405271991, DIRECT, f08c47fec0942fa0
-google.com, pub-9422585382673566, DIRECT, f08c47fec0942fa0
-google.com, pub-5413329544040947, RESELLER, f08c47fec0942fa0
 
 
 agencyorquidea.com, 1572, DIRECT
