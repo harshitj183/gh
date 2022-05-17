@@ -358,8 +358,13 @@ span#readTime:before{content:"\f017";font-family:'Font Awesome 5 Free';font-size
 .item  .post-snip .post-date:before{content:'\f017'}
 .post-snip a{color:#333;transition:color .40s}
 .post-snip .author-image{overflow:hidden;position:relative;display:inline-block;width:25px;vertical-align:middle;height:25px;background-color:var(--runs-author-color);padding:1px;margin:0 3px 0 0;border:1px solid rgba(0 0 0 / 0.25);border-radius:100%;box-shadow:0px 0px 4px 3px rgba(0 0 0 / 0.06);}
+
 .piki-ads{display:block;overflow: hidden;background-color:var(--ads-bg);text-align:center;line-height:85px;font-size:13px;font-style:italic;color:var(--ads-text);border-radius:6px;}
 .piki-ads-res{display:block;background-color:var(--ads-bg);text-align:center;line-height:205px;font-size:13px;font-style:italic;color:var(--ads-text);border-radius:6px;}
+
+.piki-ads:after{content:'🛡️Ads ';position:absolute;display:inline-block;background-color:#fff;color:#222;width:50px;text-align:center;top:10px;right:2px;font-size:11px;font-weight:500;padding:3px 5px;border-radius:3px;box-shadow:0 1px 4px -1px rgba(0,0,0,0.15);line-height:normal;transition:all .3s}
+
+
 .NewsPro-post{display:flex;justify-content:space-between;flex-wrap:wrap}
 .NewsPro{width:32%;background:#fff;border-radius:0;margin-bottom:20px;position:relative}
 .post-filter .entry-title,.flex-blocks .entry-title,.related-wrap-ui .entry-title,.Super-related .entry-title{display:block;width:100%;text-decoration:none;font-weight:600;line-height:1.4em;padding:5px 0;margin:0}
