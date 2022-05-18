@@ -320,7 +320,202 @@ xandr.com,12701,DIRECT,f5ab79cb980f11d1
 xandr.com,11429,DIRECT,f5ab79cb980f11d1
 yahoo.com,57289,RESELLER,e1a5b5b6e3255540
            
-        
+  
+#unibots
+152media.info, 152M10, RESELLER
+152media.info, 152M49, RESELLER
+33across.com, 0010b00002Mq2FYAAZ, DIRECT, bbea06d9c4d2853c
+33across.com, 0010b00002T3JniAAF, DIRECT, bbea06d9c4d2853c
+33across.com, 0010b00002XdgQgAAJ, DIRECT, bbea06d9c4d2853c
+adcolony.com,44ef7fd4adebf701,RESELLER,1ad675c9de6b5176
+ad-generation.jp,12474,RESELLER,7f4ea9029ac04e53
+adiiix.com, par-273633B96AD68DDACDDD9829A93E379, RESELLER
+admanmedia.com, 43, RESELLER
+admanmedia.com,726,RESELLER
+adtech.com, 10109, DIRECT
+adtelligent.com, 556372, DIRECT
+advangelists.com, 8d3bba7425e7c98c50f52ca1b52d3735, RESELLER, 60d26397ec060f98
+advertising.com, 26154, RESELLER # Premium video demand
+advertising.com, 28038, RESELLER # Premium Video Demand
+advertising.com, 28246, RESELLER
+adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER
+adyoulike.com, d59a93bf7ca725c5b0b1a714e6474e65, DIRECT
+amxrtb.com, 105199329, DIRECT
+amxrtb.com, 105199579, DIRECT
+aolcloud.net, 10109, DIRECT
+appnexus.com, 10239, RESELLER, f5ab79cb980f11d1
+appnexus.com, 11786, RESELLER
+appnexus.com, 11798, RESELLER, f5ab79cb980f11d1
+appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+appnexus.com, 9393, RESELLER #Video #Display
+appnexus.com, 9733, RESELLER
+appnexus.com,1356,RESELLER,f5ab79cb980f11d1
+aps.amazon.com,2bf4f2c3-1e22-4413-ba51-9e44e5baa4c8,DIRECT
+aps.amazon.com,8282b9c6-324d-4939-b1ea-958d67a9e637,DIRECT
+aralego.com, par-273633B96AD68DDACDDD9829A93E379, RESELLER
+axonix.com, 57264, RESELLER
+beachfront.com,14804,RESELLER,e2541279e8e2ca4d
+bidmatic.io, b-82687, DIRECT
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+contextweb.com, 560606, RESELLER, 89ff185a4c4e857c
+contextweb.com,562541,RESELLER,89ff185a4c4e857c
+districtm.io, 101760, RESELLER, 3fd707be9c4527c3
+districtm.io,100962,RESELLER,3fd707be9c4527c3
+durationmedia.net, 21975045711, DIRECT
+emxdgt.com, 1504, RESELLER, 1e1d41537f7cad7f
+emxdgt.com, 2145, DIRECT, 1e1d41537f7cad7f
+emxdgt.com, 326, RESELLER, 1e1d41537f7cad7f
+emxdgt.com,2009,RESELLER,1e1d41537f7cad7f
+freewheel.tv, 1220655, RESELLER # Premium video demand from Outbrain
+Freewheel.tv, 741650, RESELLER # Premium video demand
+google.com, pub-1789253751882305, DIRECT, f08c47fec0942fa0
+google.com, pub-1835489473992347, DIRECT, f08c47fec0942fa0
+gumgum.com, 13926, DIRECT, ffdef49475d318a9
+gumgum.com,14141,RESELLER,ffdef49475d318a9
+improvedigital.com, 1863, RESELLER # Premium video demand from Outbrain
+indexexchange.com, 185104, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 190856, RESELLER, 50b1c356f2c5c8fc # Premium Video Demand
+indexexchange.com, 191332, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 191503, RESELLER
+indexexchange.com, 191973, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 193091, RESELLER, 50b1c356f2c5c8fc # Premium video demand from Outbrain
+indexexchange.com,192410,RESELLER,50b1c356f2c5c8fc
+indexexchange.com,195491,RESELLER,50b1c356f2c5c8fc
+lijit.com, 260380, RESELLER, fafdf38b16bf6b2b
+lijit.com, 273657, DIRECT, fafdf38b16bf6b2b
+lijit.com, 278628, DIRECT, fafdf38b16bf6b2b
+lijit.com, 310770, DIRECT, fafdf38b16bf6b2b
+lijit.com,375328,RESELLER,fafdf38b16bf6b2b
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
+lkqd.net, 647, RESELLER, 59c49fa9598a0117
+loopme.com, 11378, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
+mobilefuse.com, 2281, RESELLER, 71e88b065d69c021
+nobid.io, 21975045711, DIRECT
+onetag.com, 59a18369e249bfb, DIRECT
+onetag.com, 60c32c42465aac2, RESELLER
+onetag.com, 694e68b73971b58, DIRECT
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+openx.com, 537152826, RESELLER, 6a698e2ec38604c6
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
+openx.com, 540650310, DIRECT, 6a698e2ec38604c6
+openx.com, 541177116, RESELLER, 6a698e2ec38604c6
+openx.com, 541212869, RESELLER, 6a698e2ec38604c6
+openx.com, 545708355, RESELLER, 6a698e2ec38604c6
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+outbrain.com, 000c2a5a9667dfbafd5ef6d6b6984e23c0, DIRECT
+pubmatic.com, 154037, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156423, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156439, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156813, DIRECT, 5d62403b186f2ace
+pubmatic.com, 157898, DIRECT, 5d62403b186f2ace
+pubmatic.com, 158615, RESELLER, 5d62403b186f2ace # Premium video &amp; display demand
+pubmatic.com, 159448, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159939, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160065, RESELLER, 5d62403b186f2ace # Premium video demand from Outbrain
+pubmatic.com, 160145, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160925, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161084, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161094, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161562, RESELLER, 5d62403b186f2ace
+pubnative.net, 1006576, RESELLER, d641df8625486a7b
+revcontent.com, 124709, DIRECT
+rhythmone.com, 1253025688, RESELLER, a670c89d4a324e47
+rhythmone.com, 2439829435, RESELLER, a670c89d4a324e47
+rhythmone.com, 2564526802, RESELLER, a670c89d4a324e47
+rhythmone.com, 3139274702404301777, DIRECT, a670c89d4a324e47
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 13702, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20736, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 21642, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 23976, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 23978, RESELLER, 0bfd66d529a55807
+sharethrough.com,7144eb80,RESELLER
+smaato.com, 1100044045, RESELLER, 07bcf65f187117b4
+smaato.com, 1100050036, RESELLER, 07bcf65f187117b4
+smaato.com, 1100050075, DIRECT, 07bcf65f187117b4
+smaato.com,1100044650,RESELLER,07bcf65f187117b4
+smartadserver.com, 3056, RESELLER
+smartadserver.com, 3447, DIRECT
+smartadserver.com, 3815, RESELLER
+smartadserver.com, 4012, DIRECT
+smartadserver.com, 4016, DIRECT
+smartadserver.com, 4071, DIRECT
+smartadserver.com, 4073, DIRECT
+smartadserver.com, 4074, DIRECT
+smartadserver.com, 4111, RESELLER
+smartadserver.com, 4144, DIRECT
+smartadserver.com,4125,RESELLER,060d053dcf45cbf3
+smartyads.com, 5Gz8880rYt7, DIRECT, fd2bde0ff2e62c5d
+sonobi.com, bc2afab5f7, DIRECT, d1a215d9eb5aee9e
+sonobi.com, bf208f7478, DIRECT, d1a215d9eb5aee9e
+sovrn.com, 260380, RESELLER, fafdf38b16bf6b2b
+sovrn.com, 273657, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 278628, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 310770, DIRECT, fafdf38b16bf6b2b
+sovrn.com,375328,RESELLER,fafdf38b16bf6b2b
+spotim.market, 4446666, DIRECT, 077e5f709d15bdbb
+spotx.tv, 230037, RESELLER, 7842df1d2fe2db34
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34 # Premium video demand
+spotx.tv, 321319, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 225721, RESELLER # Premium video demand
+spotxchange.com, 230037, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34 # Premium Video Demand
+spotxchange.com, 321319, RESELLER, 7842df1d2fe2db34
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # premium video demand
+themediagrid.com, RYIDPE, DIRECT, 35d5010d7789b49d
+themediagrid.com,JTQKMP,RESELLER,35d5010d7789b49d
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka Telaria
+ucfunnel.com, par-273633B96AD68DDACDDD9829A93E379, RESELLER
+unibots.in, 144261, DIRECT
+verve.com, 14619, RESELLER, 0c8f5958fc2d6270
+vidazoo.com, 1773068026, RESELLER, b6ada874b4d7d0b2 # Premium Video Demand
+video.unrulymedia.com, 1253025688, RESELLER
+video.unrulymedia.com, 3139274702404301777, DIRECT
+vidoomy.com, 2252369, DIRECT
+xad.com, 958, RESELLER, 81cbf0a75a5e0e9a
+xandr.com, 11429, DIRECT, f5ab79cb980f11d1
+xandr.com, 12701, DIRECT, f5ab79cb980f11d1
+yahoo.com, 57289, RESELLER, e1a5b5b6e3255540
+yahoo.com, 57872, DIRECT
+yahoo.com, 58905, RESELLER, e1a5b5b6e3255540
+yahoo.com, 59052, RESELLER # Premium Video Demand
+yahoo.com,55029,RESELLER,e1a5b5b6e3255540
+yieldmo.com,2719019867620450718,RESELLER
+
+google.com, pub-5884294479391638, RESELLER, f08c47fec0942fa0
+google.com, pub-6070398767421094, RESELLER, f08c47fec0942fa0
+google.com, pub-2561470205289901, RESELLER, f08c47fec0942fa0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
 #Adsrever.com
 google.com, pub-5413329544040947, DIRECT, f08c47fec0942fa0
 google.com, pub-5413329544040947, RESELLER, f08c47fec0942fa0
