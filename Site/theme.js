@@ -23,4 +23,18 @@ function _shortcodeiki(e,t,a){if(Array.isArray(e)){for(t=0,a=Array(e.length);t<e
 
 
 
- 
+ /*<![CDATA[*/ /* No Internet Connection Script by Fineshop (Only Toast) */ window.addEventListener("offline",function(){document.querySelector("#toastNotif").innerHTML="<span> 😔 No internet connection!📡 </span>"}),window.addEventListener("online",function(){document.querySelector("#toastNotif").innerHTML="<span> 😁Internet connection restored!📡</span>"}); /*]]>*/
+
+
+/*<![CDATA[*/
+/* Share button */
+
+document.querySelector(&#39;#sherubaba&#39;).addEventListener(&#39;click&#39;,event=&gt;{if(navigator.share){navigator.share({title:&#39;Harshit Jaiswal(@harshitj183)&#39;,url:&#39;#&#39;}).then(()=&gt;{console.log(&#39;Thanks for sharing!&#39;);}).catch(err=&gt;{console.log(&quot;Error while using Web share API:&quot;);console.log(err);});}else{alert(&quot;Browser doesn&#39;t support this API!&quot;);}})/*]]>*/
+
+
+
+
+/*<![CDATA[*/
+
+/* reading progress back to top */ let ATscrollProgress=()=&gt;{let scrollProgress=document.getElementById(&quot;ATprogressbar&quot;);let progressValue=document.getElementById(&quot;progressValue&quot;);let pos=document.documentElement.scrollTop;let calcHeight=document.documentElement.scrollHeight-document.documentElement.clientHeight;let scrollvalue=Math.round(pos*100/calcHeight);scrollProgress.style.background=`conic-gradient(#007cff ${scrollvalue}%,#c0c0ff ${scrollvalue}%)`;progressValue.textContent=`🔝`;}
+window.onscroll=ATscrollProgress;window.onload=ATscrollProgress;/*]]>*/
