@@ -3,7 +3,6 @@
 
 /*]]>*/
 
-/*<![CDATA[*/
     var s = document.createElement("script")
     s.src = "https://notix.io/ent/current/enot.min.js"
     s.onload = function (sdk) {
@@ -14,4 +13,3 @@
     }
     document.head.append(s)
 
-/*]]>*/
