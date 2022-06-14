@@ -2,6 +2,4 @@
 function removeRelatedDuplicates(){var viefx=new Array(0);var labfx=new Array(0);for(var desfx=0;desfx<relatedUrls['length'];desfx++){if(!contains(viefx,relatedUrls[desfx])){viefx['length']+=1;viefx[viefx['length']-1]=relatedUrls[desfx];labfx['length']+=1;labfx[labfx['length']-1]=relatedTitles[desfx]}};relatedTitles=labfx;relatedUrls=viefx}
 function contains(yelfx,yufx){for(var grefx=0;grefx<yelfx['length'];grefx++){if(yelfx[grefx]==yufx){return true}};return false}
 
-function insertAfter(a,c){var b=c.parentNode;if(b.lastChild==c){b.appendChild(a)}else{b.insertBefore(a,c.nextSibling)}}var tgt=document.getElementById("konten");var ad1=document.getElementById("ad-script1");var ad2=document.getElementById("ad-script2");var tg1=tgt.getElementsByTagName("p");var tg2=tgt.getElementsByTagName("br");var pt1=tg1.length;var pt2=tg2.length;var ps1=pt1*34/100;var ps2=pt1*67/100;var br1=pt2*34/100;var br2=pt2*67/100;var bl1=Math.round(ps1);var bl2=Math.round(ps2);var bk1=Math.round(br1);var bk2=Math.round(br2);if(pt1>2){insertAfter(ad1,tg1[bl1-1]);insertAfter(ad2,tg1[bl2-1])}else{if(br2>1){insertAfter(ad1,tg2[bk1-1]);insertAfter(ad2,tg2[bk2-1])}else{}};
-$AdCode=$("#MyAdCode").html();$("#MyPostBody br:eq(1)").replaceWith($AdCode);$("#MyAdCode").remove();
 /*]]>*/
