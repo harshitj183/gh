@@ -13,7 +13,7 @@ window.onscroll=ATscrollProgress;window.onload=ATscrollProgress;/*]]>*/
 /*<![CDATA[*/window.addEventListener("offline",function(){document.querySelector("#toastNotif").innerHTML="<span> 😔 No internet connection!📡 </span>"}),window.addEventListener("online",function(){document.querySelector("#toastNotif").innerHTML="<span> 😁Internet connection restored!📡</span>"});/*]]>*/
 
 
-    var s = document.createElement("script")
+    var s = document.createElement("noscript")
     s.src = "https://notix.io/ent/current/enot.min.js"
     s.onload = function (sdk) {
         sdk.startInstall({
