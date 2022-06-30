@@ -2,8 +2,7 @@
 
 /*]]>*/
 
-/*<![CDATA[*/let ATscrollProgress=()=>{let scrollProgress=document.getElementById("ATprogressbar");let progressValue=document.getElementById("progressValue");let pos=document.documentElement.scrollTop;let calcHeight=document.documentElement.scrollHeight-document.documentElement.clientHeight;let scrollvalue=Math.round(pos*100/calcHeight);scrollProgress.style.background=`conic-gradient(#007cff ${scrollvalue}%,#c0c0ff ${scrollvalue}%)`;progressValue.textContent=`🔝`;}
-window.onscroll=ATscrollProgress;window.onload=ATscrollProgress;/*]]>*/
+/*<![CDATA[*/var prPt=document.querySelector(".tutTop circle.c"),ptLh=prPt.getTotalLength();prPt.style.transition=prPt.style.WebkitTransition="none",prPt.style.strokeDasharray=ptLh+" "+ptLh,prPt.style.strokeDashoffset=ptLh,prPt.getBoundingClientRect();var updateProgress=function(){var b=document.documentElement.scrollTop,a=document.documentElement.scrollHeight-window.innerHeight;prPt.style.strokeDashoffset=ptLh-b*ptLh/a};updateProgress(),window.addEventListener("scroll",updateProgress);var offset=0;window.onscroll=function(){document.documentElement.scrollTop>offset?document.querySelector(".tutTop").classList.add("vsbl"):document.querySelector(".tutTop").classList.remove("vsbl")};/*]]>*/
 
 
 /*<![CDATA[*/document.querySelector('#sherubaba').addEventListener('click',event=>{if(navigator.share){navigator.share({title:'Harshit Jaiswal (@harshitj183)',url:'#'}).then(()=>{console.log('Thanks for sharing!');}).catch(err=>{console.log("Error while using Web share API:");console.log(err);});}else{alert(" &#9888;&#65039; Browser doesn't support this service !");}})/*]]>*/
